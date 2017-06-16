@@ -1,10 +1,10 @@
-![dogdog](https://cloud.githubusercontent.com/assets/1270156/19406321/56122900-9249-11e6-8158-6987c82cbbdf.jpg)
+![CatCat](http://www.readersdigest.ca/wp-content/uploads/2016/05/sickcat.jpg)
 
-# Dog API
-This is the Dog API and it provides dog facts as a service dogdog :dog:
+# Cat API
+This is the Cat API and it provides Cat facts as a service CatCat :Cat:
 
 ## Add to Slack
-<a href="https://slack.com/oauth/authorize?scope=incoming-webhook,commands&client_id=2160638498.90708647394"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
+Soon to come
 
 This will enable two things:
 
